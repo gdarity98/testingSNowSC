@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_811703_test_appl_test_table">x_811703_test_appl_test_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>T</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-11 15:36:00</sys_created_on>
+        <sys_id>fa2b6630475511109ea37868f36d4324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>T</sys_name>
+        <sys_package display_value="Test Application" source="x_811703_test_appl">dcdae6fc471511109ea37868f36d431b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Application">dcdae6fc471511109ea37868f36d431b</sys_scope>
+        <sys_update_name>sys_number_fa2b6630475511109ea37868f36d4324</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-11 15:36:00</sys_updated_on>
+    </sys_number>
+</record_update>
